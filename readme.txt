@@ -1,2 +1,2 @@
 
-check here haseebnk/github.io/Portfolio
+haseebnk.github.io/Portfolio
